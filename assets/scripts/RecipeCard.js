@@ -7,7 +7,7 @@ class RecipeCard extends HTMLElement {
   }
 
   set data(data) {
-    // This is the CSS that you'll use for your recipe cards
+    // This is the CSS that you'll use for your recipe cardsa
     const styleElem = document.createElement('style');
     const styles = `
       * {
